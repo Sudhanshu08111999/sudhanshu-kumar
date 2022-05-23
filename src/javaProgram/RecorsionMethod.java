@@ -5,6 +5,7 @@ public class RecorsionMethod {
 		int num=recorsion(5);
 		System.out.println(num);
 	}
+	
 public static int recorsion(int num) {
 	
 	
